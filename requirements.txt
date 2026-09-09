@@ -1,0 +1,6 @@
+ollama
+pydantic
+requests
+pypdf
+numpy
+chromadb
